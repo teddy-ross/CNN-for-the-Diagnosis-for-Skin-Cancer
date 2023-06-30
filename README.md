@@ -8,7 +8,7 @@ Skin cancer is a pervasive and growing concern worldwide. According to the World
 Recognizing the limitations and challenges faced by healthcare systems, I have harnessed the power of machine learning and computer vision to create an AI system that shows promise in identifying potential indicators of skin cancer. By leveraging vast amounts of visual data, I have aimed to develop a tool that can complement the expertise of dermatologists and potentially enhance diagnostic accuracy.
 
 
- #Methods and Technology
+ # Methods and Technology
 
  The data was acquired from the organization ISIC: https://www.isic-archive.com/
 
@@ -18,7 +18,7 @@ Recognizing the limitations and challenges faced by healthcare systems, I have h
  SKlearn: Used to generate confusion matrix -- graphical representation of one way we can measure our CNN's accuracy
 
 
- #Inception V3 Model Represented Graphically
+ # Inception V3 Model Represented Graphically
 
  ![image](https://github.com/teddy-ross/skinCancerDetection/assets/116533652/a8d9639e-d37d-49a3-8176-cc05331d2639)
 
