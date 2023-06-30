@@ -33,7 +33,9 @@ Recognizing the limitations and challenges faced by healthcare systems, I have h
  # Resources Consulted
 
  https://cloud.google.com/tpu/docs/inception-v3-advanced 
+ 
  https://iopscience.iop.org/article/10.1088/1742-6596/1911/1/012032/pdf
+ 
  https://www.researchgate.net/publication/343409875_Deep_Convolutional_Neural_Network_with_TensorFlow_and_Keras_to_Classify_Skin_Cancer_Images
 
  
