@@ -1,4 +1,4 @@
-# Skin Cancer Detector using Tensorflow and ML
+# Skin Cancer Convolutional Neural Network using Tensorflow and Keras
 
 
 # Motivation
