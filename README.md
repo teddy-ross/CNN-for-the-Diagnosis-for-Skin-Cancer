@@ -23,10 +23,12 @@ Recognizing the limitations and challenges faced by healthcare systems, I have h
  ![image](https://github.com/teddy-ross/skinCancerDetection/assets/116533652/a8d9639e-d37d-49a3-8176-cc05331d2639)
 
 
- #Confusion Matrix and Type 1 and Type 2 error prevalence
+ # Results, Confusion Matrix, and Type 1 and Type 2 error prevalence
 
- 
+ Here is a reflection of my results and the chance of false positives and negatives
 
+ Note: Tensorflow gives about **80% accuracy** for the CNN with method .evaluate
+![confusionmatrix](https://github.com/teddy-ross/skinCancerDetection/assets/116533652/7309dee1-d127-4c3c-b8c2-802c555b4b44)
 
  
 
