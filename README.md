@@ -13,8 +13,11 @@ Recognizing the limitations and challenges faced by healthcare systems, I decide
  The data was acquired from the organization ISIC: https://www.isic-archive.com/
 
  Pandas: Used to store metadata of images and help with creating CSV files to classify and read the images as benign and malignant
+ 
  Tensorflow and Keras: Used in modeling and processing image data, adoption of inception_v3 model, and training of the CNN
+ 
  Numpy: Used in data processing especially reshaping for large multi dimensional arrays
+ 
  SKlearn: Used to generate confusion matrix -- graphical representation of one way we can measure our CNN's accuracy
 
 
