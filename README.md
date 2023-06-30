@@ -30,6 +30,10 @@ Recognizing the limitations and challenges faced by healthcare systems, I have h
  Note: Tensorflow gives about **80% accuracy** for the CNN with method .evaluate
 ![confusionmatrix](https://github.com/teddy-ross/skinCancerDetection/assets/116533652/7309dee1-d127-4c3c-b8c2-802c555b4b44)
 
- 
+ # Resources Consulted
+
+ https://cloud.google.com/tpu/docs/inception-v3-advanced 
+ https://iopscience.iop.org/article/10.1088/1742-6596/1911/1/012032/pdf
+ https://www.researchgate.net/publication/343409875_Deep_Convolutional_Neural_Network_with_TensorFlow_and_Keras_to_Classify_Skin_Cancer_Images
 
  
