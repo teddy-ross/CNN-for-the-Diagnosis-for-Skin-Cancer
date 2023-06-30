@@ -30,8 +30,12 @@ Recognizing the limitations and challenges faced by healthcare systems, I decide
 
  Here is a reflection of my results and the chance of false positives and negatives
 
- Note: Tensorflow gives about **80% accuracy** for the CNN with method .evaluate
+ Note: Tensorflow gives about **80% accuracy** for the CNN with method .evaluate: see "model.ipynb" for further evaluation of results
 ![confusionmatrix](https://github.com/teddy-ross/skinCancerDetection/assets/116533652/7309dee1-d127-4c3c-b8c2-802c555b4b44)
+
+# Future Plans
+
+In the future I intend to utilize this model and create a web service where users unfamiliar with ML and python can upload their own images and receive a diagnosis.
 
  # Resources Consulted
 
