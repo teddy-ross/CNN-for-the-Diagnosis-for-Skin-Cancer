@@ -35,7 +35,7 @@ Recognizing the limitations and challenges faced by healthcare systems, I decide
 
 # Future Plans
 
-In the future I intend to utilize this model and create a web service where users unfamiliar with ML and python can upload their own images and receive a diagnosis.
+In the future I intend to utilize this model and create a web service where users unfamiliar with ML and python can upload their own images and receive a diagnosis. Also can implement newer models and sample data to improve accuracy.
 
  # Resources Consulted
 
